@@ -1,7 +1,7 @@
 # Extended Kalman Filter Project
 
 ---
-This project implements an extended Kalman filter using LIDAR and RADAR sensor inputs. The code is based on [Udacity's started code] (https://github.com/udacity/CarND-Extended-Kalman-Filter-Project)
+This project implements an extended Kalman filter using LIDAR and RADAR sensor inputs. The code is based on [Udacity's started code](https://github.com/udacity/CarND-Extended-Kalman-Filter-Project)
 
 ## Dependencies
 
