@@ -40,4 +40,4 @@ Accuracy - RMSE:
 
 The compiled code was tested in a kalman filter visualizer. The vehicle drives in pattern 8. The triangles represent the position estimates from this kalman filter.
 
-<img src="https://github.com/bhatiaabhishek/CarND-ExtendedKalmanFilters/edit/master/Visualize_KF.png" width="30%"> 
+<img src="https://github.com/bhatiaabhishek/CarND-ExtendedKalmanFilters/blob/master/Visualize_KF.png" width="60%"> 
